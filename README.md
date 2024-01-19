@@ -36,7 +36,7 @@
      
 
 3. **Online menu service:** Developed an innovative online menu service using React and Firebase. Streamlines the process of creating and managing menus for restaurants, cafes, and other food establishments.
-   - [Live Demo]([https://menuservice](https://menuserviceonline.web.app/))
+   - [Live Demo](https://menuserviceonline.web.app/)
 
 ## Experiences
 
