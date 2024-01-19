@@ -1,7 +1,7 @@
 ### Hi there! 👋
 <h3 align="center">I'm Mo, a React.js Frontend Developer with a passion for creating seamless user interfaces and engaging web applications. Here's a bit about me:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moaelkady" alt="moaelkady" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style={display:flex, gap:10px} src="https://github-profile-trophy.vercel.app/?username=moaelkady" alt="moaelkady" /></a> </p>
 
 - 🔭 I work as a React.js Frontend Developer, crafting UIs and web apps to deliver exceptional user experiences.
 
