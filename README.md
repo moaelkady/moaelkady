@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mo</h1>
-<h3 align="center">a React.js Frontend Developer with a passion for creating seamless user interfaces and engaging web applications. Here's a bit about me</h3>
+<h3 align="center">a React.js Frontend Developer with a passion for creating seamless user interfaces and engaging web applications.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moaelkady" alt="moaelkady" /></a> </p>
 
-- 🔭 I’m currently working on [Dataford](https://dataford.io)
+- 🔭 I work as a React.js Frontend Developer, crafting UIs and web apps to deliver exceptional user experiences.
 
-- 🌱 I’m currently learning **Nodejs**
+- 🚀 I've built various applications, from simple JavaScript text editors to complex React.js projects like an online QR menu for restaurants.
 
-- 👨‍💻 All of my projects are available at [moqadi.com/portfolio](moqadi.com/portfolio)
+- 👥 I've contributed to learning platforms, enhancing user success and implementing features such as personalized learning paths.
 
-- 📝 I regularly write articles on [blog.moqadi.com](blog.moqadi.com)
+- ⚙️ As a Performance Specialist, I've optimized websites to meet Core Web Vitals and increase daily user engagement.
 
-- 💬 Ask me about **Web Development, Reactjs**
+- 🌐 Collaborated with multinational companies worldwide, bringing diverse perspectives to my projects.
 
-- 📫 How to reach me **mohamed@moqadi.com**
+- 🏆 I'm an Upwork Top-Rated Freelancer, recognized for delivering high-quality work.
 
-- 📄 Know about my experiences [moqadi.com](moqadi.com)
+- 🌉 Currently a team player in a San Francisco-based company, contributing to innovative solutions.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
