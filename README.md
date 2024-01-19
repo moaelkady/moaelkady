@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/moqadi" target="blank"><img align="center" alt="moqadi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/moqadi" target="blank"><img align="center" alt="moqadi" height="30" width="40" src="https://www.svgrepo.com/show/475661/linkedin-color.svg"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
